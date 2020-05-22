@@ -5,4 +5,4 @@ INSERT INTO bears VALUES ('Sergeant Brown', 3, 'M', 'green', 0);
 INSERT INTO bears VALUES ('Melissa', 13, 'F', 'dark brown', 1);
 INSERT INTO bears VALUES ('Grinch', 2, 'M', 'Black', 1);
 INSERT INTO bears VALUES ('Wendy', 6, 'F', 'Blue', 1);
-INSERT INTO bears VALUES (NULL, NULL, NULL, NULL);
+INSERT INTO bears VALUES (NULL, 20, 'M', 'black', 0);
